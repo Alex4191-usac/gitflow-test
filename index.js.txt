@@ -3,6 +3,7 @@ const index = () => {
 	<h1> hola </h1>
 <p> se agrego hotfix </p>
 <p> voy a gregar carrito</p>	
+<p> estoy Despidiendome </p>
 )
 
 }
