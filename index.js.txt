@@ -1,6 +1,7 @@
 const index = () => {
 	return (
 	<h1> hola </h1>
+<p> se agrego hotfix </p>
 	)
 
 }
